@@ -241,7 +241,7 @@ Several improvements can be explored in future work:
 Dry-Bean-Classification/
 │
 ├── Dry_Bean_Classification.ipynb
-├── Dry_Bean_Dataset.csv
+├── Dry_Bean_Dataset.xlsx
 ├── logistic_model.pkl
 ├── feature_selector.pkl
 ├── scaler.pkl
@@ -251,6 +251,4 @@ Dry-Bean-Classification/
 └── README.md
 ```
 
-## Author
 
-**Jaina George**
